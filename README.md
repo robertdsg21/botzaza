@@ -9,13 +9,10 @@ ___
 # comandos 
 
 ```
-apt purge game-repo -y
-```
-```
  apt update && apt upgrade
 ```
 ```
- pkg install nodejs-lts
+ pkg install nodejs
 ```
 ```
 pkg install ffmpeg
