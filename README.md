@@ -9,10 +9,10 @@ ___
 # comandos 
 
 ```
+ apt update && apt upgrade
+```
+```
  pkg install nodejs-lts
-```
-```
- pkg update && pkg upgrade
 ```
 ```
 pkg install ffmpeg
